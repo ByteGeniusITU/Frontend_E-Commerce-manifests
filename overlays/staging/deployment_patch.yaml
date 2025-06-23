@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: frontend-ecommerce
-          image: bytegenius/frontend-ecommerce:v0.3-staging
+          image: bytegenius/frontend-ecommerce:v0.4-staging
